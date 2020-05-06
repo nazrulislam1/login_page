@@ -1,0 +1,173 @@
+*
+{
+	padding:0px;
+	margin:0px;
+	box-sizing: border-box;
+}
+
+.header-control{
+	background-color:rgb(102, 0, 102);
+	width:100%;
+	height:130px;
+}
+
+
+.control-align{
+	width: ;
+	height: ;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img-control{
+	float: left;
+}
+
+.img-control img{
+	width: 400px;
+	height: 90px;
+	margin-top: 20px;
+}
+
+.login{
+	float: right;
+	margin-top: 30px;
+	margin-right: 20px;
+	font-family:arial;
+	font-size: 15px;
+	color:white;
+}
+.inputtext{
+	height:22px;
+}
+.btn{
+	height: 22px;
+	width: 44px;
+	background-color:rgb(51, 204, 51);
+	margin-left: 4px;
+	margin-right: 20px;
+	font-family: arial;
+	border-radius: 4px;
+}
+.login a{
+	color: white;
+	text-decoration: none;
+}
+.content-control{
+	width:;
+	height:;
+	margin-right: auto;
+	margin-left: 20px;
+}
+.left{
+	float: left;
+	width: 600px;
+	margin-top: 30px;
+	font-family: arial;
+}
+.right{
+	float: right;
+	font-family: arial;
+	margin-top: 30px;
+}
+.ipt{
+	width:350px;
+	height: 30px;
+	margin-top: 10px;
+	border-radius: 4px;
+	border: none;
+	border: 1px solid black;
+	padding-left: 10px;
+	font-size: 14px;
+
+}
+
+.dropdown{
+	width: 70px;
+	height: 30px;
+	border-radius: 4px;
+	border: none;
+	border: 1px solid black;
+	padding-left: 10px;
+	font-size: 14px;
+	margin-top: 10px;
+}
+.Gender{
+	margin-top: 20px;
+}
+.sin{
+	width: 150px;
+	height: 40px;
+	margin-top: 10px;
+	border-radius: 4px;
+	font-size: 10px;
+	font-size: 20px;
+	background-color:rgb(51, 204, 51);
+	font-family: arial;
+}
+.privacy{
+	margin: 15px 0px;
+	font-size: 11px;
+	padding: 0px 95px 0px 0px;
+	color: #777777;
+	line-height: 5px;
+	text-decoration: none;
+}
+.page{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 15px;
+}
+body{
+	background-color:;
+}
+section:after{
+  content: "";
+  display: table;
+  clear: both;
+ }
+.footer{
+	background-color:;
+  padding: 30px;
+  text-align: center;
+  font-family: arial;
+  font-size: 15px;
+}
+.footer hr{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.footer p a{
+	margin-left: 10px;
+	margin-right: 10px
+	margin-top:15px;
+	margin-bottom:15px;
+	text-decoration: none;
+}
+h4{
+	margin-top: 20px;
+
+}
+.page a{
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
